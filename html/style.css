@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+.product-list .product {
+  width: 100%;
+  min-width: 320px;
+}
+.product-list .product-image {
+  float: left;
+  margin-right: 20px;
+}
+.product {
+  padding: 10px;
+  margin-top: 20px;
+  border: 1px solid #ddd;
+}
+.product:hover {
+  border: 1px solid #aaa;
+  cursor: pointer;
+}
+
+a{
+  color:#7a8387;
+}
+.btn-primary{
+  background-color: #7a8387;
+}
+.prat-makai{
+  overflow: hidden;
+}
