@@ -12,7 +12,9 @@
 .product {
   padding: 10px;
   margin-top: 20px;
+  margin-bottom: 20px;
   border: 1px solid #ddd;
+  padding-bottom: 18px;
 }
 .product:hover {
   border: 1px solid #aaa;
@@ -22,15 +24,34 @@
 a{
   color:#7a8387;
 }
+a:hover{
+  text-decoration: none;
+}
 .btn-primary{
   background-color: #7a8387;
 }
+@media screen and (max-width: 768px) {
 .prat-makai{
   overflow: hidden;
+  display: none;
 }
+}
+
+@media screen and (min-width: 1200px) {
+  .prat-makai-m{
+    overflow: hidden;
+    display: none;
+}
+}
+  
 .span3 {
   width: 24%;
 }
+
+.span3-m {
+  width: 93%;
+}
+
 [class*="span"] {
   float: left;
   min-height: 1px;
@@ -43,3 +64,13 @@ a{
   padding-bottom: 13px;
   font-weight: 900;
 }
+
+.comp{
+  background-color: #52d5a6;
+  padding: 3px;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 83%;
+  margin: -8%;
+}
+
