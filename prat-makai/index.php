@@ -48,7 +48,7 @@ function prod_makai(){ ?>
         <p class="product-price">
             R$ 49,90
         </p>
-        <span style="background-color: #52d5a6; padding: 8px; border-radius: 20px; color: #fff;;" type="button">COMPRAR</span>
+        <a style="text-decoration: none;" href="https://makainutri.com.br/p/vitamina-d3-makai-2000ui"><div class="comp" type="button">COMPRAR</div></a>
     </div>
     <div class="product span3">
         <a href="https://makainutri.com.br/p/multi-v-polivitaminico" target="_blank">
@@ -63,7 +63,7 @@ function prod_makai(){ ?>
         <p class="product-price">
             R$ 69,90
         </p>
-        <span style="background-color: #52d5a6; padding: 8px; border-radius: 20px; color: #fff;;" type="button">COMPRAR</span>
+        <a style="text-decoration: none;" href="https://makainutri.com.br/p/multi-v-polivitaminico"><div class="comp" type="button">COMPRAR</div></a>
     </div>    
     <div class="product span3">
         <a href="https://makainutri.com.br/p/omega-3-tg-premium" target="_blank">
@@ -78,7 +78,7 @@ function prod_makai(){ ?>
         <p class="product-price">
             R$ 99,90
         </p>
-        <span style="background-color: #52d5a6; padding: 8px; border-radius: 20px; color: #fff;;" type="button">COMPRAR</span>
+        <a style="text-decoration: none;" href="https://makainutri.com.br/p/omega-3-tg-premium"><div class="comp" type="button">COMPRAR</div></a>
     </div>
     <div class="product span3">
         <a href="https://makainutri.com.br/p/carti-flex-b2-cool" target="_blank">
@@ -93,7 +93,7 @@ function prod_makai(){ ?>
         <p class="product-price">
             R$ 79,90
         </p>
-        <span style="background-color: #52d5a6; padding: 8px; border-radius: 20px; color: #fff;;" type="button">COMPRAR</span>
+        <a style="text-decoration: none;" href="https://makainutri.com.br/p/carti-flex-b2-cool"><div class="comp" type="button">COMPRAR</div></a>
     </div>
 </div>
 </div>
@@ -122,7 +122,7 @@ function prod_makai(){ ?>
             R$ 49,90
         </p>
         <a href="https://makainutri.com.br/p/vitamina-d3-makai-2000ui" target="_blank">
-        <span style="background-color: #52d5a6; padding: 8px; border-radius: 20px; color: #fff;" type="button">COMPRAR</span>
+        <a style="text-decoration: none;" href="https://makainutri.com.br/p/vitamina-d3-makai-2000ui"><div class="comp-m" type="button">COMPRAR</div></a>
         </a>
     </div>
 </div>
@@ -144,7 +144,7 @@ function prod_makai(){ ?>
             R$ 69,90
         </p>
         <a href="https://makainutri.com.br/p/multi-v-polivitaminico" target="_blank">
-        <span style="background-color: #52d5a6; padding: 8px; border-radius: 20px; color: #fff;" type="button">COMPRAR</span>
+        <a style="text-decoration: none;" href="https://makainutri.com.br/p/multi-v-polivitaminico"><div class="comp-m" type="button">COMPRAR</div></a>
         </a>
     </div>
 </div>
@@ -166,7 +166,7 @@ function prod_makai(){ ?>
             R$ 99,90
         </p>
         <a href="https://makainutri.com.br/p/omega-3-tg-premium" target="_blank">
-        <span style="background-color: #52d5a6; padding: 8px; border-radius: 20px; color: #fff;" type="button">COMPRAR</span>
+        <a style="text-decoration: none;" href="https://makainutri.com.br/p/omega-3-tg-premium"><div class="comp-m" type="button">COMPRAR</div></a>
         </a>
     </div>
 </div>
@@ -186,7 +186,7 @@ function prod_makai(){ ?>
             R$ 79,90
         </p>
         <a href="https://makainutri.com.br/p/carti-flex-b2-cool" target="_blank">
-        <span style="background-color: #52d5a6; padding: 8px; border-radius: 20px; color: #fff;" type="button">COMPRAR</span>
+        <a style="text-decoration: none;" href="https://makainutri.com.br/p/carti-flex-b2-cool"><div class="comp-m" type="button">COMPRAR</div></a>
         </a>
     </div>
 </div>

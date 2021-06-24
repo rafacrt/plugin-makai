@@ -59,6 +59,8 @@ a:hover{
 }
 .product-name{
   height: 80px;
+  overflow: hidden;
+  word-break: break-word;
 }
 .product-price{
   padding-bottom: 13px;
@@ -68,9 +70,18 @@ a:hover{
 .comp{
   background-color: #52d5a6;
   padding: 3px;
-  border-radius: 10px;
+  border-radius: 18px;
   color: #fff;
   font-size: 83%;
-  margin: -8%;
+  margin: 6%;
+}
+
+.comp-m{
+  background-color: #52d5a6;
+  padding: 3px;
+  border-radius: 18px;
+  color: #fff;
+  font-size: 90%;
+  margin: -5%;
 }
 

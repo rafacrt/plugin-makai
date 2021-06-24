@@ -7,18 +7,10 @@ $('#productGrid').on('click', function () {
 });
 
 $(document).ready(function(){
-  $(".owl-carousel").owlCarousel();
+  $('.owl-carousel').owlCarousel({
+     margin: 10,
+     loop: true,
+     items: 2,
+     stagePadding: 50
+  });
 });
-
-$('.loop').owlCarousel({
-  center: true,
-  items:2,
-  loop:true,
-  margin:10,
-  responsive:{
-      600:{
-          items:4
-      }
-  }
-});
-
