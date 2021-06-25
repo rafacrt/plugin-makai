@@ -7,10 +7,19 @@ $('#productGrid').on('click', function () {
 });
 
 $(document).ready(function(){
-  $('.owl-carousel').owlCarousel({
-     margin: 10,
+  $('.owl-carouseld').owlCarousel({
+     margin: 20,
      loop: true,
-     items: 2,
-     stagePadding: 50
+     items: 3,
+     stagePadding: 65
+  });
+});
+
+$(document).ready(function(){
+  $('.owl-carousel').owlCarousel({
+     margin: 20,
+     loop: true,
+     items: 1,
+     stagePadding: 70
   });
 });

@@ -34,6 +34,10 @@ function prod_makai(){ ?>
     <div class="prat-makai" align="center">
     <h3>Compre Agora</h3>
 <div id="productView" class="product-grid">
+
+<div class="owl-carouseld owl-theme">
+
+<div class="item">
     <div class="product span3">
         <a href="https://makainutri.com.br/p/vitamina-d3-makai-2000ui" target="_blank"></a>
         <div class="product-image">
@@ -50,6 +54,9 @@ function prod_makai(){ ?>
         </p>
         <a style="text-decoration: none;" href="https://makainutri.com.br/p/vitamina-d3-makai-2000ui"><div class="comp" type="button">COMPRAR</div></a>
     </div>
+</div>
+
+<div class="item">
     <div class="product span3">
         <a href="https://makainutri.com.br/p/multi-v-polivitaminico" target="_blank">
             <img class="product-image" style="width: 93%;" src="https://makainutri.com.br/app/media/images_product/medium/2/2165437-polivitaminico-a-a-z.png" />
@@ -64,7 +71,10 @@ function prod_makai(){ ?>
             R$ 69,90
         </p>
         <a style="text-decoration: none;" href="https://makainutri.com.br/p/multi-v-polivitaminico"><div class="comp" type="button">COMPRAR</div></a>
-    </div>    
+    </div>
+</div>
+
+<div class="item">
     <div class="product span3">
         <a href="https://makainutri.com.br/p/omega-3-tg-premium" target="_blank">
             <img class="product-image" style="width: 93%;" src="https://makainutri.com.br/app/media/images_product/medium/4/4144604-embalagem-omega-3.png" />
@@ -80,6 +90,9 @@ function prod_makai(){ ?>
         </p>
         <a style="text-decoration: none;" href="https://makainutri.com.br/p/omega-3-tg-premium"><div class="comp" type="button">COMPRAR</div></a>
     </div>
+</div>
+
+<div class="item">
     <div class="product span3">
         <a href="https://makainutri.com.br/p/carti-flex-b2-cool" target="_blank">
             <img class="product-image" style="width: 93%;" src="https://makainutri.com.br/app/media/images_product/medium/1/1165756-cartri-flex-capsula-de-colageno.png" />
@@ -95,6 +108,9 @@ function prod_makai(){ ?>
         </p>
         <a style="text-decoration: none;" href="https://makainutri.com.br/p/carti-flex-b2-cool"><div class="comp" type="button">COMPRAR</div></a>
     </div>
+</div>
+
+</div>
 </div>
 </div>
 
@@ -126,8 +142,6 @@ function prod_makai(){ ?>
         </a>
     </div>
 </div>
-
-
 
 <div class="item">
     <div class="product span3-m">
