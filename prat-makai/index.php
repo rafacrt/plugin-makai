@@ -35,7 +35,7 @@ function prod_makai(){ ?>
     <h3>Compre Agora</h3>
 <div id="productView" class="product-grid">
 
-<div class="owl-carouseld owl-theme">
+<div class="owl-carouseld owl-carousel owl-theme">
 
 <div class="item">
     <div class="product span3">

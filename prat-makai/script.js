@@ -8,18 +8,18 @@ $('#productGrid').on('click', function () {
 
 $(document).ready(function(){
   $('.owl-carouseld').owlCarousel({
-     margin: 20,
+     margin: 5,
      loop: true,
      items: 3,
-     stagePadding: 65
+     stagePadding: 60
   });
 });
 
 $(document).ready(function(){
   $('.owl-carousel').owlCarousel({
-     margin: 20,
+     margin: 2,
      loop: true,
      items: 1,
-     stagePadding: 70
+     stagePadding: 0
   });
 });
