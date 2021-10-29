@@ -11,7 +11,7 @@ $(document).ready(function(){
      margin: 5,
      loop: true,
      items: 3,
-     stagePadding: 60
+     stagePadding: 50
   });
 });
 

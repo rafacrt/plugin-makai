@@ -50,7 +50,7 @@ function prod_makai(){ ?>
             Melhor matéria-prima do mundo. Qualidade BASF.
         </p>-->        
         <p class="product-price">
-            R$ 49,90
+            R$ 79,90
         </p>
         <a style="text-decoration: none;" href="https://makainutri.com.br/p/vitamina-d3-makai-2000ui"><div class="comp" type="button">COMPRAR</div></a>
     </div>
@@ -135,7 +135,7 @@ function prod_makai(){ ?>
             Melhor matéria-prima do mundo. Qualidade BASF.
         </p>-->        
         <p class="product-price">
-            R$ 49,90
+            R$ 79,90
         </p>
         <a href="https://makainutri.com.br/p/vitamina-d3-makai-2000ui" target="_blank">
         <a style="text-decoration: none;" href="https://makainutri.com.br/p/vitamina-d3-makai-2000ui"><div class="comp-m" type="button">COMPRAR</div></a>
