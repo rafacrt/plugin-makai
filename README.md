@@ -1,29 +1,74 @@
-Plugin de Prateleira de Produtos Relacionados para WordPress
-Este é um plugin personalizado para WordPress que permite exibir uma prateleira de produtos relacionados dentro do seu blog. É uma solução fácil e eficaz para ajudar os usuários a descobrir e explorar produtos relacionados enquanto navegam pelo seu site.
+# 🛒 Prateleira de Produtos Relacionados para WordPress
 
-Recursos Principais
-Prateleira de Produtos Relacionados: Exiba uma prateleira de produtos relacionados de forma atraente e responsiva em suas postagens e páginas do WordPress.
+🔌 **Plugin personalizado para WordPress** que permite exibir uma **prateleira bonita e responsiva** com produtos relacionados diretamente dentro de suas postagens ou páginas. Uma maneira simples, eficaz e elegante de aumentar o engajamento dos visitantes e promover produtos relevantes no seu site!
 
-Personalização Flexível: Personalize facilmente a aparência da prateleira para corresponder ao estilo do seu site. Altere cores, fontes e estilos para se adequar à sua marca.
+---
 
-Integração Perfeita: Integre o plugin de forma perfeita ao seu tema WordPress existente. Funciona com a maioria dos temas populares sem problemas.
+## ✨ Recursos Principais
 
-Seleção Inteligente de Produtos: Utilize algoritmos inteligentes para determinar quais produtos são exibidos na prateleira, garantindo relevância e engajamento dos usuários.
+- 🧱 **Prateleira de Produtos Relacionados**  
+  Exiba produtos relacionados de forma horizontal, com layout moderno e responsivo.
 
-Fácil de Configurar: Instalação e configuração simples. Basta ativar o plugin, fazer algumas configurações básicas e você estará pronto para começar a exibir produtos relacionados em seu site.
+- 🎨 **Personalização Flexível**  
+  Ajuste cores, fontes, espaçamentos e estilos para combinar com a identidade visual do seu site.
 
-Instalação
-Faça o Download: Baixe o arquivo ZIP do plugin a partir deste repositório.
+- 🧩 **Integração Perfeita**  
+  Compatível com a maioria dos temas WordPress sem necessidade de ajustes adicionais.
 
-Instalação no WordPress: Faça o upload do arquivo ZIP do plugin no painel de administração do WordPress ou extraia o conteúdo do arquivo ZIP na pasta de plugins do seu site WordPress.
+- 🤖 **Seleção Inteligente de Produtos**  
+  Produtos sugeridos com base no contexto da página/post atual para maximizar a relevância.
 
-Ative o Plugin: Ative o plugin através do menu 'Plugins' no seu painel de administração do WordPress.
+- ⚙️ **Fácil de Configurar**  
+  Interface amigável, instalação simples e uso intuitivo.
 
-Configuração
-Após ativar o plugin, vá para a página de configurações para personalizar a aparência da sua prateleira de produtos relacionados. Você pode ajustar as cores, fontes e outros estilos para garantir que a prateleira se alinhe perfeitamente ao seu site.
+---
 
-Suporte
-Se você encontrar problemas ou tiver perguntas sobre o plugin, sinta-se à vontade para abrir uma Issue neste repositório. Estamos aqui para ajudar!
+## 🚀 Instalação
 
-Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, relatar problemas ou enviar solicitações de pull para ajudar a tornar este plugin ainda melhor.
+1. 📥 **Download:**  
+   Baixe o arquivo `.zip` deste repositório.
+
+2. 🧰 **Instalação via WordPress:**  
+   Vá até `Plugins > Adicionar Novo > Enviar Plugin`, e selecione o `.zip` baixado.
+
+   ou
+
+   Extraia o conteúdo na pasta `/wp-content/plugins/` do seu site WordPress via FTP.
+
+3. ✅ **Ativação:**  
+   Ative o plugin em `Plugins > Plugins Instalados`.
+
+---
+
+## 🎛️ Configuração
+
+Após ativar o plugin, acesse o menu **Configurações > Produtos Relacionados** para:
+- Selecionar o layout da prateleira
+- Ajustar cores, fontes e espaçamentos
+- Escolher critérios de recomendação
+
+---
+
+## 🙋 Suporte
+
+Encontrou um problema ou tem alguma dúvida?  
+Abra uma **issue** aqui no repositório e ficaremos felizes em ajudar! 💬
+
+---
+
+## 🤝 Contribuições
+
+Contribuições são super bem-vindas!  
+Crie um **Pull Request**, reporte um bug ou sugira melhorias.
+
+📌 Vamos juntos tornar este plugin ainda mais poderoso e útil!
+
+---
+
+## 🧾 Licença
+
+Distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
+
+---
+
+### Desenvolvido com 💻 por [Rafael Medeiros](https://github.com/rafacrt)
